@@ -3,7 +3,7 @@ const express = require('express'); //requerimos el modulo y lo guardamos en una
 const app = express(); //lo voy a ejecutar y lo voy a almacenar en un objeto  app se convierte en nuestro servidor
 
 //Settings
-
+//
 //Middlewares
 
 //Routes
