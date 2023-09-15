@@ -1,0 +1,14 @@
+{
+  "name": "mern-stack",
+  "version": "1.0.0",
+  "description": "Aplicacion MERN Stack",
+  "main": "index.js",
+  "scripts": {
+    "start":  "node src/index.js"
+  },
+  "author": "Pablo Talonia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
